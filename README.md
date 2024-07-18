@@ -1,4 +1,4 @@
-# FileSwitches
+# FileSwitch
 
 FileSwitches is a web application that allows users to convert Word documents (.doc, .docx) to PDF format. The application uses a React frontend and an Express backend to handle file uploads and conversions.
 
